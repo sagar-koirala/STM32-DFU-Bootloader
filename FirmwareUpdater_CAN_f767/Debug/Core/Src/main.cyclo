@@ -1,0 +1,17 @@
+main.c:117:1:__io_putchar	1
+main.c:130:6:HAL_CAN_RxFifo0MsgPendingCallback	1
+main.c:135:10:packCAN_Ext_ID	1
+main.c:144:10:htonl	1
+main.c:148:6:process_packet	2
+main.c:156:6:handle_packet_type	4
+main.c:179:6:send_cmd	1
+main.c:191:6:send_FWmData	2
+main.c:211:6:wait_response	4
+main.c:218:6:Flash_Read_Data	2
+main.c:230:6:send_FWdata	3
+main.c:266:5:main	8
+main.c:368:6:SystemClock_Config	3
+main.c:410:13:MX_CAN1_Init	2
+main.c:460:13:MX_USART3_UART_Init	2
+main.c:495:13:MX_GPIO_Init	1
+main.c:534:6:Error_Handler	1

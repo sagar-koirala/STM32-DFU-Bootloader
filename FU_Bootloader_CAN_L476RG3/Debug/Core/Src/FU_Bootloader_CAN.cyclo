@@ -1,0 +1,12 @@
+FU_Bootloader_CAN.c:42:6:HAL_CAN_RxFifo0MsgPendingCallback	1
+FU_Bootloader_CAN.c:51:6:OTA_update	3
+FU_Bootloader_CAN.c:61:6:process_packet	2
+FU_Bootloader_CAN.c:70:6:handle_packet_type	5
+FU_Bootloader_CAN.c:90:6:handle_command_type_packet	3
+FU_Bootloader_CAN.c:105:6:handle_metaData_type_packet	5
+FU_Bootloader_CAN.c:133:6:handle_fwDATA_type_packet	6
+FU_Bootloader_CAN.c:164:10:packCAN_Ext_ID	1
+FU_Bootloader_CAN.c:172:13:send_resp	1
+FU_Bootloader_CAN.c:184:10:GetPage	1
+FU_Bootloader_CAN.c:191:26:erase_flash_pages	3
+FU_Bootloader_CAN.c:215:26:write_to_flash	1
